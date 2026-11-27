@@ -15,4 +15,4 @@ A simple calculator built using Python.
 Your Name
 
 ## Project Status
-Version 3.0 - Improved Calculator Interface
+Version 2.0 - Calculator with Advanced Features
